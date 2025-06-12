@@ -6,7 +6,7 @@ Deteksi Dini Masalah Kulit Dengan Aplikasi Berbasis Web
 ## Instalasi
 1. Clone Repository
 ```
-git clone https://github.com/umarsani1605/date-fruit-classification
+git clone https://github.com/paschajoya21/Skinaria.git
 ```
 2. Install dependencies
 ```
