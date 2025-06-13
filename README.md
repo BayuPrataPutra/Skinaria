@@ -1,4 +1,5 @@
 # Skinaria
+![HomePage](header.jpg)
 Deteksi Dini Masalah Kulit Dengan Aplikasi Berbasis Web
 > Kenali Masalah Kulitmu Lebih Cepat
 
